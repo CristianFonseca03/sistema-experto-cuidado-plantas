@@ -9,7 +9,7 @@ Diagnóstico basado en preguntas sobre el tipo de hoja, síntomas visibles y exp
 Consejos y recomendaciones para el cuidado de las plantas
 ##Requisitos
 
-- Python 3.8 o superior
+- Python 3.8
 - Biblioteca Tkinter (generalmente incluida en la instalación estándar de Python)
 - Biblioteca Experta (para la lógica del sistema experto)
   ##Instalación
